@@ -56,7 +56,7 @@ Example:
 
 #### Get Player Personal Show
 
-`GET /get_player_personal_show`
+`GET /info?uid=1901614992&region=PK`
 
 Query Parameters:
 - `server` (default: "IND") — The server region.
