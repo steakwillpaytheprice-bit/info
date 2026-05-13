@@ -18,8 +18,8 @@ FreeFire-Api is a lightweight Python project that interacts with internal Free F
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/0xMe/FreeFire-Api.git
-   cd FreeFire-Api
+   git clone https://github.com/steakwillpaytheprice-bit/info
+   cd info
    ```
 
 2. **Install dependencies**
@@ -43,7 +43,7 @@ FreeFire-Api is a lightweight Python project that interacts with internal Free F
 
 #### Get Player Stats
 
-`GET /get_player_stats`
+`GET /info`
 
 Query Parameters:
 - `server` (default: "IND") — The server region.
