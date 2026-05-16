@@ -52,7 +52,7 @@ Query Parameters:
 - `matchmode` (default: "CAREER") — Match mode. (`CAREER`, `NORMAL`, `RANKED`)
 
 Example:
-    https://freefire-api-six.vercel.app/get_player_stats?server=ind&uid=11959685790&matchmode=RANKED&gamemode=br
+    https://info-psi-ten.vercel.app/get_player_stats?server=PK&uid=1901614992&matchmode=RANKED&gamemode=br
 
 #### Get Player Personal Show
 
@@ -65,7 +65,7 @@ Query Parameters:
 - `call_sign_src` (default: 7) — Call sign source.
 
 Example:
-    https://freefire-api-six.vercel.app/get_player_personal_show?server=ind&uid=1633864660
+    https://info-psi-ten.vercel.app/get_player_personal_show?server=ind&uid=1633864660
 
 #### Search Account By Keyword
 
@@ -76,7 +76,7 @@ Query Parameters:
 - `keyword` — The Keyword.
 
 Example:
-    https://freefire-api-six.vercel.app/get_search_account_by_keyword?server=ind&keyword=Hello
+    https://info-psi-ten.vercel.app/get_search_account_by_keyword?server=ind&keyword=Hello
 
 ### API Responses
 
@@ -109,4 +109,4 @@ Feel free to fork and submit pull requests. Open issues for bug reports and feat
 
 ## Author
 
-[0xMe](https://github.com/0xMe)
+[Ayaan](https://github.com/steakwillpaytheprice-bit)
